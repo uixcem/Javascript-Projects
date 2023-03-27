@@ -2,7 +2,7 @@
 
 Besides my daily CSS exercises, I decided to make a project for per week.🚀 I will add my codes for my weekly projects. 🙌
 
-1.Week / Clock ~ Deadline 07/04 💘
+1.Week / Clock ~ Deadline 07/04 ⏰
 
 
 2.Week / Calculator ~ Deadline 21/04 🧮
