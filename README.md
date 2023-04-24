@@ -16,4 +16,4 @@ Besides my daily CSS exercises, I decided to make a project for per week.🚀 I 
 
 I will update this list. For now, I have 4 projects goal. 💪🦩
 
-<-- Unexpected movement happened, I will start these projects after 18th of the April. -->
+<-- Unexpected movement happened, I will start these projects after 25th of the April. -->
