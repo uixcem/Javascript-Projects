@@ -2,16 +2,18 @@
 
 Besides my daily CSS exercises, I decided to make a project for per week.🚀 I will add my codes for my weekly projects. 🙌
 
-1.Week / Clock ~ Deadline 31/05 ==> ⏰
+1.Dice Game ~ ==> 🎲  https://dicegamejsproject.netlify.app/
 
 
-2.Week / Calculator ~ Deadline 15/06 ==> 🧮
+2.Calculator ~ ==> 🧮
 
 
-3.Week / Love Matcher ~ Deadline 30/06 ==> 🪨 📃 ✂️
+3.Rock Paper Scissor ~  ==> 🪨 📃 ✂️
 
 
-4.Week / Rock Paper Scissor Game   ~ Deadline 15/07 ==> ⏰
+4.Clock ~ ==> ⏰
+
+5.Love Matcher ~ ==> 💘
 
 
 I will update this list. For now, I have 4 projects goal. 💪🦩
