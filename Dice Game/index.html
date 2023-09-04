@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Game</title>
+    <link rel="shortcut icon" href="./favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="./script.js"></script>
+
+    
+</head>
+<body>
+    <div class="container">
+        <div class="container__users">
+            <div class="containier__users--user1">
+                <h1 style="text-align: center;">Team A</h1>
+                <span id="userid1" style="font-size: 350px";>🥳</span>
+             </div>
+            <div class="containier__users--user2">
+                <h1 style="text-align: center;">Team B</h1>
+                <span id="userid2" style="font-size: 350px;">🫣</span>
+            </div>
+        </div>
+        <div class="container__heading"> 
+             <h1>Dice Game </h1> </div>
+        <div class="container__dice">
+            <div class="container__dice--1">
+                <img src="./images/dice3.png" alt="">
+            </div>
+            <div class="container__dice--2">
+                <img src="./images/dice5.png" alt="">
+            </div>
+    </div>
+    <div class="result__message">
+        <h1 id="message">Let's the game begin!</h1>
+        </div>
+
+    <button class="container__btn" onclick="rollDice()">Roll Dice</button>
+
+    </div>
+</body>
+</html>

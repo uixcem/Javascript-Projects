@@ -1,0 +1,14 @@
+{
+  "name": "javascript-projects",
+  "version": "1.0.0",
+  "description": "Besides my daily CSS exercises, I decided to make a project for per week.🚀 I will add my codes for my weekly projects. 🙌",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uixcem",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
