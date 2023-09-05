@@ -1,0 +1,11 @@
+{
+  "name": "love-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "uixcem",
+  "license": "ISC"
+}
