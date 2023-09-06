@@ -4,9 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Love Matcher💘</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css"> 
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">   
 </head>
 <body>
-    
+    <div class="container">
+        <div class="container__characters">
+            <div class="container__characters__left"> <img src="./images/profscruffy.png" alt="" srcset="" class="leftImg"> </div>
+            <div class="container__characters__right"><img src="./images/amyhermes.png" alt="" class="rightImg"></div>
+        </div>
+
+        <div class="container__heading">
+            <h1 class="container__heading--title">Love Matcher💘</h1>
+            <p class="container__heading--text">Are you ready to know?</p>
+        </div>
+       
+        <div class="container__forms">
+                <form class="container__forms__form">
+                    <input type="text" name="nameA" id="nameA" placeholder="Enter your name" required class="container__forms__form--input">
+                    <button id="submit" class="container__forms__form--btn">Match</button>
+                    <input type="text" name="nameB" id="nameB" placeholder="Enter your crush's name" required class="container__forms__form--input">
+                </form>  
+
+                <div class="container__forms__result">
+                    <p class="container__forms__result--text">Your love percentage is <span id="loveScore"></span> <br> <br> <span id="loveWord"> </span></p>  
+                </div>
+
+        </div>
+
+       
+        <div class="mark">
+             <a  href="https://cemkaplan.me" class="mark__animated__line"> uixcem</a>
+        </div>
+       
+        <script src="script.js"></script>
 </body>
 </html>
