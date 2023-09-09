@@ -5,13 +5,14 @@ Besides my daily CSS exercises, I decided to make a project for per week.🚀 I 
 1.Dice Game ~ ==> 🎲  https://dicegamebyuixcem.netlify.app/
 
 
-2.Calculator ~ ==> 🧮 
+2.Calculator ~ ==> 🧮  with Super Mario Design which I created.
 
 
 3.Rock Paper Scissor ~  ==> 🪨 📃 ✂️
 
 
-4.Clock ~ ==> ⏰
+4.Clock ~ ==> ⏰  
+
 
 5.Love Matcher ~ ==> 💘  https://lovematcherfuturama.netlify.app/
 
