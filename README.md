@@ -1,6 +1,6 @@
 # Javascript-Projects
 
-Besides my daily CSS exercises, I decided to make a project for per week.🚀 I will add my codes for my weekly projects. 🙌
+Besides my daily CSS exercises, I decided to do a project when I have free time.🚀
 
 1.Dice Game ~ ==> 🎲  https://dicegamebyuixcem.netlify.app/
 
@@ -8,15 +8,18 @@ Besides my daily CSS exercises, I decided to make a project for per week.🚀 I 
 2.Calculator ~ ==> 🧮  with Super Mario Design which I created.
 
 
-3.Rock Paper Scissor ~  ==> 🪨 📃 ✂️
+3.Rock Paper Scissor ~  ==> 🪨 📃 ✂️  Very soon..
 
 
-4.Clock ~ ==> ⏰  
+4.Clock ~ ==> ⏰   Very soon..
 
 
 5.Love Matcher ~ ==> 💘  https://lovematcherfuturama.netlify.app/
 
 
-I will update this list. For now, I have 4 projects goal. 💪🦩
+6. Tic Tac Toe ~ ==> TTT  Very soon..
+
+
+I will update this list. For now, I have 6 projects goal. 💪🦩
 
 
